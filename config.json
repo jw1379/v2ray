@@ -8,7 +8,7 @@
     "settings": {
       "clients": [
         {
-          "id": "your_uuid",
+          "id": "ladder2home",
           "alterId": 64
         }
       ]
