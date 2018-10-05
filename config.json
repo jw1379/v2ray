@@ -9,7 +9,7 @@
       "clients": [
         {
           "id": "4e7565f0-28a7-4424-b8e6-6066bca6b6cf",
-          "alterId": 64
+          "alterId": 64,
           "security": "aes-128-cfb"
         }
       ]
@@ -18,8 +18,9 @@
       "network": "ws"
     }
   },
+  "inboundDetour": [],
   "outbound": {
     "protocol": "freedom",
-    "settings": {}
+   "settings": {}
   }
 }
