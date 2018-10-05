@@ -10,6 +10,7 @@
         {
           "id": "b18354cc-d710-4704-858d-bdb44a758914",
           "alterId": 64
+          "security": "aes-128-cfb"
         }
       ]
     },
